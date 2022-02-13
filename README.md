@@ -9,4 +9,4 @@ Prerequisites: an OnStep controller (hardware) flashed with either v4.24 (prefer
 
 Oh yeah, one more thing: it's only been "tested" on Linux (Mint 20.4). I'm going to try it on Win10, and maybe a Mac, but it'll be a really old Mac and if it doesn't work on either, it'll only be tested on Linux.
 
-As always, no guarnatees, use at your own risk, etc etc.
+As always, no guarantees, use at your own risk, etc etc.
