@@ -1,0 +1,55 @@
+# the Brightest, easiest-to-find stars, OnStep upload format
+#                THIS ONE WORKS
+
+Object Name Cat    RA       Dec
+ccccccccccc,ccc,HH:MM:SS,sDD*MM:SS
+
+
+$BrightStr
+Achernar   ,STR,01:37:43,-57*14:29
+Acrux      ,STR,12:26:37,-63*06:30
+Adhara     ,STR,06:58:37,-28*58:35
+Aldebaran  ,STR,04:35:55,+16*31:34
+Alhena     ,STR,06:37:44,+16*24:29
+Alioth     ,STR,12:54:02,+55*58:31
+Alkaid     ,STR,13:47:32,+49*19:33
+Alnair     ,STR,22:08:14,-46*58:29
+Alnilam    ,STR,05:36:14,-01*12:31
+ACentauri  ,STR,14:39:37,-60*50:32
+Altair     ,STR,19:50:47,+08*52:37
+Antares    ,STR,16:29:24,-26*26:29
+Arcturus   ,STR,14:15:40,+19*11:35
+Atria      ,STR,16:48:41,-69*02:37
+Avior      ,STR,08:22:31,-59*31:36
+Bellatrix  ,STR,05:25:08,+06*21:30
+Betelgeus  ,STR,05:55:10,+07*24:37
+Canopus    ,STR,06:23:57,-52*42:35
+Capella    ,STR,05:16:42,+46*00:29
+Castor     ,STR,07:34:36,+31*53:36
+Deneb      ,STR,20:41:26,+45*17:28
+Diphda     ,STR,00:43:36,-17*59:34
+Dubhe      ,STR,11:03:44,+61*45:35
+ElNath     ,STR,05:26:18,+28*36:30
+Fomalhaut  ,STR,22:57:38,-29*37:29
+Gacrux     ,STR,12:31:09,-57*07:34
+Hadar      ,STR,14:03:49,-60*22:31
+Hamal      ,STR,02:07:09,+23*28:30
+KausAus    ,STR,18:24:10,-34*23:34
+Menkalin   ,STR,05:59:32,+44*57:32
+Miaplaci   ,STR,09:13:12,-69*43:29
+Mimosa     ,STR,12:47:43,-59*41:29
+Mirfak     ,STR,03:24:19,+49*52:31
+Mirzam     ,STR,06:22:42,-17*57:36
+Meacock    ,STR,20:25:39,-56*44:30
+Polaris    ,STR,02:31:49,+89*16:30
+Pollux     ,STR,07:45:19,+28*02:33
+Procyon    ,STR,07:39:18,+05*14:36
+Regor      ,STR,08:09:32,-47*20:34
+Regulus    ,STR,10:08:21,+11*58:30
+Rigel      ,STR,05:14:32,-08*12:34
+Rargas     ,STR,17:37:19,-43*00:31
+Shaula     ,STR,17:33:37,-37*06:33
+Sirius     ,STR,06:45:09,-16*43:36
+Spica      ,STR,13:25:13,-11*10:33
+Sega       ,STR,18:36:56,+38*47:34
+Wezen      ,STR,07:08:24,-26*24:30
